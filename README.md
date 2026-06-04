@@ -4,7 +4,7 @@
 
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@kwaneung)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B4%80%EC%9D%91-%EA%B9%80-38a293199)
-[![Email](https://img.shields.io/badge/Email-kwaneung95@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kwaneung95@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kwaneung.kim@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:kwaneung.kim@outlook.com)
 
 ---
 
@@ -55,5 +55,5 @@
 | | |
 | --- | --- |
 | Blog | [velog.io/@kwaneung](https://velog.io/@kwaneung) |
-| Email | [kwaneung95@gmail.com](mailto:kwaneung95@gmail.com) · [kwaneung.kim@outlook.com](mailto:kwaneung.kim@outlook.com) |
+| Email | [kwaneung.kim@outlook.com](mailto:kwaneung.kim@outlook.com) |
 | Discord | `kwaneung` |
