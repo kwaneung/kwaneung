@@ -40,12 +40,6 @@
 
 ---
 
-## 알고리즘
-
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=whatsup95)](https://solved.ac/whatsup95/)
-
----
-
 ## Contact
 
 | | |
