@@ -41,10 +41,7 @@
 
 ---
 
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kwaneung&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwaneung&layout=compact&theme=transparent&hide_border=true)
+## 알고리즘
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=whatsup95)](https://solved.ac/whatsup95/)
 
